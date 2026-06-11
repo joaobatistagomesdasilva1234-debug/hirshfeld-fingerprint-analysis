@@ -1,0 +1,47 @@
+=========================================
+RELATÓRIO DE VERIFICAÇÃO
+=========================================
+
+Pasta analisada: 2008640.cif
+
+------------------------------------------------
+LIGAÇÕES ENCONTRADAS:
+------------------------------------------------
+  • C_C: 2.6%
+  • C_F: 4.7%
+  • C_H: 10.0%
+  • C_O: 0.1%
+  • F_F: 6.5%
+  • H_F: 29.5%
+  • H_H: 37.2%
+  • H_O: 5.2%
+  • N_H: 3.4%
+  • O_F: 0.7%
+  • O_O: 0.1%
+
+------------------------------------------------
+VERIFICAÇÃO DE ARQUIVOS:
+------------------------------------------------
+  Arquivo .eps: SIM
+  Arquivo .png: SIM
+
+------------------------------------------------
+OBSERVAÇÃO:
+------------------------------------------------
+  ? Todos os arquivos da pasta foram gerados com sucesso!
+
+------------------------------------------------
+INFORMAÇÕES METODOLÓGICAS:
+------------------------------------------------
+  A estrutura cristalina foi obtida a partir do banco de dados
+  cristalográfico COD (Crystallography Open Database).
+
+  A análise da impressão digital de Hirshfeld e a quantificação
+  das interações intermoleculares apresentadas neste relatório
+  foram realizadas por João Batista Gomes, estudante e pesquisador
+  em formação, com o objetivo de auxiliar estudos comparativos
+  de estruturas cristalinas e seus padrões de empacotamento molecular.
+
+=========================================
+FIM DO RELATÓRIO
+=========================================
