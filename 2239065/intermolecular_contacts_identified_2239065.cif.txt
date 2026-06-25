@@ -1,0 +1,51 @@
+====================================================================================================
+Identified intermolecular interactions
+Structure: 2239065.cif
+====================================================================================================
+
+----------------------------------------------------------------------------------------------------
+Intermolecular contacts identified:
+----------------------------------------------------------------------------------------------------
+
+  • C_C: 0.6%
+  • F_H: 10.8%
+  • F_O: 0.1%
+  • H_C: 10.5%
+  • H_H: 29.7%
+  • H_O: 12.0%
+  • I_C: 4.1%
+  • I_F: 0.3%
+  • I_H: 10.5%
+  • I_N: 2.7%
+  • I_O: 1.9%
+  • N_C: 2.0%
+  • N_H: 9.4%
+  • N_N: 0.1%
+  • N_O: 4.4%
+  • O_C: 1.0%
+
+----------------------------------------------------------------------------------------------------
+.png and .eps File Verification:
+----------------------------------------------------------------------------------------------------
+
+File .eps: Yes
+File .png: Yes
+
+The .eps and .png files analyzed in this section were obtained from calculations performed in Crystal Explorer.
+The .eps files correspond to Hirshfeld surface fingerprint plots,
+which are vector-based graphical outputs used for intermolecular interaction analysis.
+For better compatibility with standard document formats and image editing workflows,
+the original .eps files were converted to .png format.
+
+----------------------------------------------------------------------------------------------------
+METHODOLOGICAL INFORMATION:
+----------------------------------------------------------------------------------------------------
+
+  The crystal structure was obtained from the COD
+  (Crystallography Open Database).
+  The Hirshfeld fingerprint analysis and quantification of
+  intermolecular interactions presented in this report were
+  performed by João Batista Gomes da Silva, a student and researcher in
+  training, aiming to support comparative studies of crystal
+  structures and their molecular packing patterns.
+

@@ -1,0 +1,48 @@
+====================================================================================================
+Identified intermolecular interactions
+Structure: 7206558.cif
+====================================================================================================
+
+----------------------------------------------------------------------------------------------------
+Intermolecular contacts identified:
+----------------------------------------------------------------------------------------------------
+
+  • C_C: 7.0%
+  • C_F: 16.9%
+  • C_H: 3.3%
+  • C_N: 5.8%
+  • C_O: 1.7%
+  • F_F: 35.2%
+  • F_H: 19.2%
+  • H_H: 3.7%
+  • N_F: 0.9%
+  • N_H: 1.9%
+  • N_O: 0.9%
+  • O_F: 1.7%
+  • O_H: 1.9%
+
+----------------------------------------------------------------------------------------------------
+.png and .eps File Verification:
+----------------------------------------------------------------------------------------------------
+
+File .eps: Yes
+File .png: Yes
+
+The .eps and .png files analyzed in this section were obtained from calculations performed in Crystal Explorer.
+The .eps files correspond to Hirshfeld surface fingerprint plots,
+which are vector-based graphical outputs used for intermolecular interaction analysis.
+For better compatibility with standard document formats and image editing workflows,
+the original .eps files were converted to .png format.
+
+----------------------------------------------------------------------------------------------------
+METHODOLOGICAL INFORMATION:
+----------------------------------------------------------------------------------------------------
+
+  The crystal structure was obtained from the COD
+  (Crystallography Open Database).
+  The Hirshfeld fingerprint analysis and quantification of
+  intermolecular interactions presented in this report were
+  performed by João Batista Gomes da Silva, a student and researcher in
+  training, aiming to support comparative studies of crystal
+  structures and their molecular packing patterns.
+
