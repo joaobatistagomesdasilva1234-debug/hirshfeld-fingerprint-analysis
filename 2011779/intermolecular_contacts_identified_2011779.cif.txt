@@ -9,7 +9,7 @@ Intermolecular contacts identified:
 
   • H_C: 2.0%
   • H_H: 29.9%
-  • O_C: 2.9%
+  • O_C: 2.5%
   • O_H: 62.1%
   • O_O: 3.5%
 

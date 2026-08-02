@@ -20,7 +20,7 @@ Intermolecular contacts identified:
   • N_O: 1.5%
   • N_S: 1.4%
   • O_O: 0.8%
-  • O_S: 2.9%
+  • O_S: 2.5%
 
 ----------------------------------------------------------------------------------------------------
 .png and .eps File Verification:

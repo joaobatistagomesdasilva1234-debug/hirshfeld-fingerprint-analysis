@@ -1,0 +1,1760 @@
+
+=========================================
+PASTA: 1502447.cif_fingerprints_20260625_113518
+=========================================
+    C_H (23.5%): EPS=SIM PNG=SIM
+    H_H (63.9%): EPS=SIM PNG=SIM
+    O_H (12.6%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1502565.cif_fingerprints_20260625_114818
+=========================================
+    C_C (2.0%): EPS=SIM PNG=SIM
+    C_H (17.9%): EPS=SIM PNG=SIM
+    H_H (48.6%): EPS=SIM PNG=SIM
+    O_H (24.3%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1504532.cif_fingerprints_20260625_115917
+=========================================
+    H_C (9.6%): EPS=SIM PNG=SIM
+    H_H (70.9%): EPS=SIM PNG=SIM
+    O_H (18.0%): EPS=SIM PNG=SIM
+    O_O (0.4%): EPS=SIM PNG=SIM
+    S_H (1.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1507084.cif_fingerprints_20260625_120818
+=========================================
+    C_C (2.0%): EPS=SIM PNG=SIM
+    H_C (24.3%): EPS=SIM PNG=SIM
+    H_H (53.8%): EPS=SIM PNG=SIM
+    H_N (11.8%): EPS=SIM PNG=SIM
+    N_C (1.7%): EPS=SIM PNG=SIM
+    O_C (0.6%): EPS=SIM PNG=SIM
+    O_H (5.4%): EPS=SIM PNG=SIM
+    O_N (0.3%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1508358.cif_fingerprints_20260625_121615
+=========================================
+    C_H (7.4%): EPS=SIM PNG=SIM
+    H_H (82.0%): EPS=SIM PNG=SIM
+    O_H (10.6%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1508882.cif_fingerprints_20260625_122326
+=========================================
+    C_C (0.6%): EPS=SIM PNG=SIM
+    C_H (25.8%): EPS=SIM PNG=SIM
+    C_O (3.2%): EPS=SIM PNG=SIM
+    H_H (32.9%): EPS=SIM PNG=SIM
+    H_N (0.3%): EPS=SIM PNG=SIM
+    H_O (27.2%): EPS=SIM PNG=SIM
+    H_S (8.2%): EPS=SIM PNG=SIM
+    O_O (1.0%): EPS=SIM PNG=SIM
+    O_S (0.8%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1513752.cif_fingerprints_20260625_123441
+=========================================
+    C_C (0.7%): EPS=SIM PNG=SIM
+    C_H (23.6%): EPS=SIM PNG=SIM
+    C_O (0.1%): EPS=SIM PNG=SIM
+    H_H (50.1%): EPS=SIM PNG=SIM
+    H_O (25.0%): EPS=SIM PNG=SIM
+    O_O (0.4%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1514212.cif_fingerprints_20260625_124220
+=========================================
+    C_C (0.2%): EPS=SIM PNG=SIM
+    C_H (12.4%): EPS=SIM PNG=SIM
+    H_H (60.8%): EPS=SIM PNG=SIM
+    O_C (0.8%): EPS=SIM PNG=SIM
+    O_H (25.5%): EPS=SIM PNG=SIM
+    O_O (0.3%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1518071.cif_fingerprints_20260625_124958
+=========================================
+    C_H (3.2%): EPS=SIM PNG=SIM
+    H_H (53.0%): EPS=SIM PNG=SIM
+    H_N (1.7%): EPS=SIM PNG=SIM
+    H_O (40.7%): EPS=SIM PNG=SIM
+    O_O (1.5%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1519904.cif_fingerprints_20260625_125727
+=========================================
+    C_H (1.7%): EPS=SIM PNG=SIM
+    H_H (61.6%): EPS=SIM PNG=SIM
+    H_O (36.7%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1519975.cif_fingerprints_20260625_130438
+=========================================
+    C_H (2.8%): EPS=SIM PNG=SIM
+    C_O (1.1%): EPS=SIM PNG=SIM
+    H_H (33.7%): EPS=SIM PNG=SIM
+    H_O (61.1%): EPS=SIM PNG=SIM
+    O_O (1.3%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1535858.cif_fingerprints_20260625_131206
+=========================================
+    C_C (4.3%): EPS=SIM PNG=SIM
+    K_C (6.7%): EPS=SIM PNG=SIM
+    K_K (1.5%): EPS=SIM PNG=SIM
+    K_N (44.0%): EPS=SIM PNG=SIM
+    K_O (7.4%): EPS=SIM PNG=SIM
+    N_C (17.9%): EPS=SIM PNG=SIM
+    N_N (7.9%): EPS=SIM PNG=SIM
+    N_O (9.3%): EPS=SIM PNG=SIM
+    O_O (1.0%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1535862.cif_fingerprints_20260625_132007
+=========================================
+    C_C (4.7%): EPS=SIM PNG=SIM
+    N_C (14.3%): EPS=SIM PNG=SIM
+    N_N (7.9%): EPS=SIM PNG=SIM
+    N_O (9.4%): EPS=SIM PNG=SIM
+    O_O (0.9%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1542484.cif_fingerprints_20260625_132809
+=========================================
+    C_C (0.1%): EPS=SIM PNG=SIM
+    C_H (1.0%): EPS=SIM PNG=SIM
+    C_O (1.0%): EPS=SIM PNG=SIM
+    H_H (45.0%): EPS=SIM PNG=SIM
+    H_O (44.7%): EPS=SIM PNG=SIM
+    H_S (7.7%): EPS=SIM PNG=SIM
+    O_O (0.4%): EPS=SIM PNG=SIM
+    S_S (0.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1542538.cif_fingerprints_20260625_133731
+=========================================
+    C_C (0.3%): EPS=SIM PNG=SIM
+    C_F (0.5%): EPS=SIM PNG=SIM
+    C_H (6.2%): EPS=SIM PNG=SIM
+    C_O (1.0%): EPS=SIM PNG=SIM
+    F_F (3.2%): EPS=SIM PNG=SIM
+    H_F (24.0%): EPS=SIM PNG=SIM
+    H_H (39.8%): EPS=SIM PNG=SIM
+    H_N (1.6%): EPS=SIM PNG=SIM
+    H_O (22.9%): EPS=SIM PNG=SIM
+    H_S (0.1%): EPS=SIM PNG=SIM
+    N_O (0.5%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1542542.cif_fingerprints_20260625_135114
+=========================================
+    C_C (6.4%): EPS=SIM PNG=SIM
+    C_H (9.3%): EPS=SIM PNG=SIM
+    C_O (3.4%): EPS=SIM PNG=SIM
+    H_H (37.1%): EPS=SIM PNG=SIM
+    H_O (43.8%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1542738.cif_fingerprints_20260625_135839
+=========================================
+    C_C (29.5%): EPS=SIM PNG=SIM
+    C_N (1.2%): EPS=SIM PNG=SIM
+    C_O (1.0%): EPS=SIM PNG=SIM
+    H_C (3.9%): EPS=SIM PNG=SIM
+    H_H (30.5%): EPS=SIM PNG=SIM
+    H_N (14.3%): EPS=SIM PNG=SIM
+    H_O (10.7%): EPS=SIM PNG=SIM
+    N_N (4.1%): EPS=SIM PNG=SIM
+    O_O (4.9%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1544035.cif_fingerprints_20260625_140641
+=========================================
+    C_C (4.9%): EPS=SIM PNG=SIM
+    C_H (16.2%): EPS=SIM PNG=SIM
+    C_N (12.4%): EPS=SIM PNG=SIM
+    C_O (0.1%): EPS=SIM PNG=SIM
+    C_S (0.1%): EPS=SIM PNG=SIM
+    H_H (14.7%): EPS=SIM PNG=SIM
+    H_N (28.7%): EPS=SIM PNG=SIM
+    H_O (5.5%): EPS=SIM PNG=SIM
+    H_S (10.2%): EPS=SIM PNG=SIM
+    N_N (2.0%): EPS=SIM PNG=SIM
+    N_O (0.4%): EPS=SIM PNG=SIM
+    N_S (4.4%): EPS=SIM PNG=SIM
+    O_O (0.6%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1547576.cif_fingerprints_20260625_141648
+=========================================
+    C_C (3.1%): EPS=SIM PNG=SIM
+    C_H (10.7%): EPS=SIM PNG=SIM
+    C_N (1.0%): EPS=SIM PNG=SIM
+    C_O (4.5%): EPS=SIM PNG=SIM
+    H_H (37.3%): EPS=SIM PNG=SIM
+    H_N (2.4%): EPS=SIM PNG=SIM
+    H_O (27.5%): EPS=SIM PNG=SIM
+    N_O (0.4%): EPS=SIM PNG=SIM
+    O_O (1.2%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1548657.cif_fingerprints_20260625_142638
+=========================================
+    C_C (2.2%): EPS=SIM PNG=SIM
+    C_H (19.5%): EPS=SIM PNG=SIM
+    C_O (1.0%): EPS=SIM PNG=SIM
+    H_H (43.4%): EPS=SIM PNG=SIM
+    N_H (1.7%): EPS=SIM PNG=SIM
+    O_H (15.4%): EPS=SIM PNG=SIM
+    O_N (0.8%): EPS=SIM PNG=SIM
+    O_O (0.2%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1549849.cif_fingerprints_20260625_143618
+=========================================
+    C_C (1.4%): EPS=SIM PNG=SIM
+    C_H (9.7%): EPS=SIM PNG=SIM
+    C_N (0.2%): EPS=SIM PNG=SIM
+    C_O (0.5%): EPS=SIM PNG=SIM
+    H_H (60.1%): EPS=SIM PNG=SIM
+    H_N (0.9%): EPS=SIM PNG=SIM
+    H_O (27.2%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1550336.cif_fingerprints_20260625_144532
+=========================================
+    C_C (1.0%): EPS=SIM PNG=SIM
+    H_C (20.2%): EPS=SIM PNG=SIM
+    H_H (46.7%): EPS=SIM PNG=SIM
+    N_H (1.7%): EPS=SIM PNG=SIM
+    O_C (1.7%): EPS=SIM PNG=SIM
+    O_H (27.6%): EPS=SIM PNG=SIM
+    O_O (1.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1554500.cif_fingerprints_20260625_145315
+=========================================
+    C_C (4.7%): EPS=SIM PNG=SIM
+    H_C (30.0%): EPS=SIM PNG=SIM
+    H_H (52.4%): EPS=SIM PNG=SIM
+    H_O (10.3%): EPS=SIM PNG=SIM
+    N_C (0.7%): EPS=SIM PNG=SIM
+    N_H (0.3%): EPS=SIM PNG=SIM
+    N_O (0.7%): EPS=SIM PNG=SIM
+    O_C (1.0%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1555571.cif_fingerprints_20260625_150237
+=========================================
+    C_H (7.5%): EPS=SIM PNG=SIM
+    H_H (65.0%): EPS=SIM PNG=SIM
+    N_H (0.1%): EPS=SIM PNG=SIM
+    O_H (27.5%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1555793.cif_fingerprints_20260625_150953
+=========================================
+    C_C (6.6%): EPS=SIM PNG=SIM
+    C_H (15.8%): EPS=SIM PNG=SIM
+    C_N (0.6%): EPS=SIM PNG=SIM
+    C_O (1.7%): EPS=SIM PNG=SIM
+    C_S (0.2%): EPS=SIM PNG=SIM
+    H_H (28.2%): EPS=SIM PNG=SIM
+    H_N (3.3%): EPS=SIM PNG=SIM
+    H_O (12.4%): EPS=SIM PNG=SIM
+    H_S (6.9%): EPS=SIM PNG=SIM
+    N_N (0.4%): EPS=SIM PNG=SIM
+    N_S (2.2%): EPS=SIM PNG=SIM
+    O_O (0.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1555870.cif_fingerprints_20260625_152216
+=========================================
+    C_C (0.3%): EPS=SIM PNG=SIM
+    H_C (22.6%): EPS=SIM PNG=SIM
+    H_H (63.6%): EPS=SIM PNG=SIM
+    O_H (13.5%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1557726.cif_fingerprints_20260625_152932
+=========================================
+    C_H (10.3%): EPS=SIM PNG=SIM
+    H_H (35.9%): EPS=SIM PNG=SIM
+    N_H (3.0%): EPS=SIM PNG=SIM
+    O_H (9.1%): EPS=SIM PNG=SIM
+    S_H (11.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1568221.cif_fingerprints_20260625_154706
+=========================================
+    H_C (24.9%): EPS=SIM PNG=SIM
+    H_H (38.5%): EPS=SIM PNG=SIM
+    N_H (3.4%): EPS=SIM PNG=SIM
+    O_C (0.5%): EPS=SIM PNG=SIM
+    O_H (32.2%): EPS=SIM PNG=SIM
+    O_O (0.6%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1569908.cif_fingerprints_20260625_155444
+=========================================
+    C_C (6.5%): EPS=SIM PNG=SIM
+    C_H (15.2%): EPS=SIM PNG=SIM
+    C_N (0.4%): EPS=SIM PNG=SIM
+    F_H (7.4%): EPS=SIM PNG=SIM
+    F_O (0.7%): EPS=SIM PNG=SIM
+    H_H (50.4%): EPS=SIM PNG=SIM
+    N_H (0.5%): EPS=SIM PNG=SIM
+    O_C (2.3%): EPS=SIM PNG=SIM
+    O_H (16.2%): EPS=SIM PNG=SIM
+    O_O (0.3%): EPS=SIM PNG=SIM
+    S_C (0.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1572751.cif_fingerprints_20260625_160631
+=========================================
+    C_C (0.2%): EPS=SIM PNG=SIM
+    C_H (5.9%): EPS=SIM PNG=SIM
+    F_C (0.5%): EPS=SIM PNG=SIM
+    F_F (2.0%): EPS=SIM PNG=SIM
+    F_H (23.6%): EPS=SIM PNG=SIM
+    F_O (1.9%): EPS=SIM PNG=SIM
+    H_H (38.2%): EPS=SIM PNG=SIM
+    N_H (1.5%): EPS=SIM PNG=SIM
+    O_C (1.0%): EPS=SIM PNG=SIM
+    O_H (24.7%): EPS=SIM PNG=SIM
+    O_N (0.5%): EPS=SIM PNG=SIM
+    S_H (0.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1575047.cif_fingerprints_20260625_162033
+=========================================
+    C_C (7.0%): EPS=SIM PNG=SIM
+    H_C (16.8%): EPS=SIM PNG=SIM
+    H_H (38.6%): EPS=SIM PNG=SIM
+    H_N (5.0%): EPS=SIM PNG=SIM
+    N_C (3.4%): EPS=SIM PNG=SIM
+    O_C (3.4%): EPS=SIM PNG=SIM
+    O_H (17.2%): EPS=SIM PNG=SIM
+    O_N (1.3%): EPS=SIM PNG=SIM
+    O_O (0.2%): EPS=SIM PNG=SIM
+    S_C (1.9%): EPS=SIM PNG=SIM
+    S_H (4.4%): EPS=SIM PNG=SIM
+    S_N (0.5%): EPS=SIM PNG=SIM
+    S_O (0.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1575358.cif_fingerprints_20260625_163047
+=========================================
+    H_C (2.3%): EPS=SIM PNG=SIM
+    H_H (39.1%): EPS=SIM PNG=SIM
+    H_N (0.8%): EPS=SIM PNG=SIM
+    H_O (39.1%): EPS=SIM PNG=SIM
+    O_C (0.9%): EPS=SIM PNG=SIM
+    O_O (0.4%): EPS=SIM PNG=SIM
+    S_C (1.0%): EPS=SIM PNG=SIM
+    S_H (14.7%): EPS=SIM PNG=SIM
+    S_N (0.5%): EPS=SIM PNG=SIM
+    S_O (1.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 1575361.cif_fingerprints_20260625_164033
+=========================================
+    H_C (2.5%): EPS=SIM PNG=SIM
+    H_H (38.8%): EPS=SIM PNG=SIM
+    H_N (0.9%): EPS=SIM PNG=SIM
+    H_O (39.0%): EPS=SIM PNG=SIM
+    O_C (1.1%): EPS=SIM PNG=SIM
+    O_O (0.5%): EPS=SIM PNG=SIM
+    S_C (1.0%): EPS=SIM PNG=SIM
+    S_H (14.5%): EPS=SIM PNG=SIM
+    S_N (0.6%): EPS=SIM PNG=SIM
+    S_O (1.2%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2003056.cif_fingerprints_20260625_165019
+=========================================
+    C_H (13.6%): EPS=SIM PNG=SIM
+    C_N (1.3%): EPS=SIM PNG=SIM
+    C_O (0.7%): EPS=SIM PNG=SIM
+    H_H (22.9%): EPS=SIM PNG=SIM
+    H_O (9.9%): EPS=SIM PNG=SIM
+    N_H (44.2%): EPS=SIM PNG=SIM
+    N_N (3.7%): EPS=SIM PNG=SIM
+    N_O (3.7%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2003104.cif_fingerprints_20260625_165948
+=========================================
+    H_C (0.2%): EPS=SIM PNG=SIM
+    H_H (71.2%): EPS=SIM PNG=SIM
+    O_H (28.3%): EPS=SIM PNG=SIM
+    O_O (0.3%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2003296.cif_fingerprints_20260625_170709
+=========================================
+    C_H (7.5%): EPS=SIM PNG=SIM
+    C_N (0.1%): EPS=SIM PNG=SIM
+    H_H (53.4%): EPS=SIM PNG=SIM
+    H_N (13.5%): EPS=SIM PNG=SIM
+    H_O (12.7%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2003876.cif_fingerprints_20260625_171637
+=========================================
+    H_C (18.9%): EPS=SIM PNG=SIM
+    H_H (55.7%): EPS=SIM PNG=SIM
+    O_C (0.9%): EPS=SIM PNG=SIM
+    O_H (21.2%): EPS=SIM PNG=SIM
+    O_O (0.4%): EPS=SIM PNG=SIM
+    S_C (0.9%): EPS=SIM PNG=SIM
+    S_H (1.5%): EPS=SIM PNG=SIM
+    S_O (0.4%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2004536.cif_fingerprints_20260625_172605
+=========================================
+    C_C (0.7%): EPS=SIM PNG=SIM
+    H_C (2.1%): EPS=SIM PNG=SIM
+    H_H (48.8%): EPS=SIM PNG=SIM
+    H_N (2.7%): EPS=SIM PNG=SIM
+    O_C (0.7%): EPS=SIM PNG=SIM
+    O_H (44.2%): EPS=SIM PNG=SIM
+    O_N (0.5%): EPS=SIM PNG=SIM
+    O_O (0.2%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2004810.cif_fingerprints_20260625_173402
+=========================================
+    C_H (24.0%): EPS=SIM PNG=SIM
+    H_H (57.3%): EPS=SIM PNG=SIM
+    N_H (0.6%): EPS=SIM PNG=SIM
+    N_O (0.1%): EPS=SIM PNG=SIM
+    O_H (18.0%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2005071.cif_fingerprints_20260625_174131
+=========================================
+    C_H (9.7%): EPS=SIM PNG=SIM
+    H_H (75.3%): EPS=SIM PNG=SIM
+    O_H (15.0%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2005510.cif_fingerprints_20260625_174842
+=========================================
+    C_H (10.9%): EPS=SIM PNG=SIM
+    H_H (35.2%): EPS=SIM PNG=SIM
+    H_N (1.3%): EPS=SIM PNG=SIM
+    H_O (12.6%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2005717.cif_fingerprints_20260625_180008
+=========================================
+    C_C (1.4%): EPS=SIM PNG=SIM
+    C_H (12.0%): EPS=SIM PNG=SIM
+    H_H (53.0%): EPS=SIM PNG=SIM
+    N_C (1.0%): EPS=SIM PNG=SIM
+    N_H (7.1%): EPS=SIM PNG=SIM
+    O_C (0.3%): EPS=SIM PNG=SIM
+    O_H (24.9%): EPS=SIM PNG=SIM
+    O_N (0.2%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2006339.cif_fingerprints_20260625_180800
+=========================================
+    H_C (0.9%): EPS=SIM PNG=SIM
+    H_H (52.9%): EPS=SIM PNG=SIM
+    H_N (2.5%): EPS=SIM PNG=SIM
+    O_C (0.2%): EPS=SIM PNG=SIM
+    O_H (42.8%): EPS=SIM PNG=SIM
+    O_N (0.2%): EPS=SIM PNG=SIM
+    O_O (0.5%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2007300.cif_fingerprints_20260625_181543
+=========================================
+    C_C (1.1%): EPS=SIM PNG=SIM
+    C_H (12.2%): EPS=SIM PNG=SIM
+    H_H (36.5%): EPS=SIM PNG=SIM
+    N_C (0.1%): EPS=SIM PNG=SIM
+    N_H (0.6%): EPS=SIM PNG=SIM
+    O_C (3.5%): EPS=SIM PNG=SIM
+    O_H (42.8%): EPS=SIM PNG=SIM
+    O_N (0.2%): EPS=SIM PNG=SIM
+    O_O (3.0%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2007737.cif_fingerprints_20260625_182345
+=========================================
+    H_C (18.0%): EPS=SIM PNG=SIM
+    H_H (52.6%): EPS=SIM PNG=SIM
+    H_O (28.9%): EPS=SIM PNG=SIM
+    O_C (0.4%): EPS=SIM PNG=SIM
+    O_O (0.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2007963.cif_fingerprints_20260625_183110
+=========================================
+    H_C (0.7%): EPS=SIM PNG=SIM
+    H_H (50.2%): EPS=SIM PNG=SIM
+    O_H (48.4%): EPS=SIM PNG=SIM
+    O_O (0.5%): EPS=SIM PNG=SIM
+    P_H (0.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2008943.cif_fingerprints_20260625_184005
+=========================================
+    H_C (0.4%): EPS=SIM PNG=SIM
+    H_H (68.4%): EPS=SIM PNG=SIM
+    O_H (30.8%): EPS=SIM PNG=SIM
+    O_O (0.4%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2009571.cif_fingerprints_20260625_184721
+=========================================
+    C_H (3.0%): EPS=SIM PNG=SIM
+    H_H (43.5%): EPS=SIM PNG=SIM
+    O_H (53.3%): EPS=SIM PNG=SIM
+    O_O (0.2%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2009900.cif_fingerprints_20260625_185438
+=========================================
+    C_H (0.1%): EPS=SIM PNG=SIM
+    H_H (87.1%): EPS=SIM PNG=SIM
+    N_H (0.5%): EPS=SIM PNG=SIM
+    O_H (12.3%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2010686.cif_fingerprints_20260625_190154
+=========================================
+    C_C (0.7%): EPS=SIM PNG=SIM
+    C_H (29.8%): EPS=SIM PNG=SIM
+    H_H (56.4%): EPS=SIM PNG=SIM
+    N_H (1.3%): EPS=SIM PNG=SIM
+    O_C (0.1%): EPS=SIM PNG=SIM
+    O_H (11.8%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2011290.cif_fingerprints_20260625_190928
+=========================================
+    C_H (23.0%): EPS=SIM PNG=SIM
+    H_H (57.7%): EPS=SIM PNG=SIM
+    H_N (0.2%): EPS=SIM PNG=SIM
+    O_C (0.4%): EPS=SIM PNG=SIM
+    O_H (18.4%): EPS=SIM PNG=SIM
+    O_N (0.1%): EPS=SIM PNG=SIM
+    O_O (0.2%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2011590.cif_fingerprints_20260625_191842
+=========================================
+    C_C (0.8%): EPS=SIM PNG=SIM
+    H_C (11.0%): EPS=SIM PNG=SIM
+    H_H (20.8%): EPS=SIM PNG=SIM
+    H_N (16.6%): EPS=SIM PNG=SIM
+    N_C (3.2%): EPS=SIM PNG=SIM
+    N_N (1.5%): EPS=SIM PNG=SIM
+    O_C (5.2%): EPS=SIM PNG=SIM
+    O_H (29.2%): EPS=SIM PNG=SIM
+    O_N (1.8%): EPS=SIM PNG=SIM
+    O_O (0.5%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2011779.cif_fingerprints_20260625_192849
+=========================================
+    H_C (2.0%): EPS=SIM PNG=SIM
+    H_H (29.9%): EPS=SIM PNG=SIM
+    O_C (2.5%): EPS=SIM PNG=SIM
+    O_H (62.1%): EPS=SIM PNG=SIM
+    O_O (3.5%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2012076.cif_fingerprints_20260625_193615
+=========================================
+    H_C (0.2%): EPS=SIM PNG=SIM
+    H_H (55.7%): EPS=SIM PNG=SIM
+    H_N (0.5%): EPS=SIM PNG=SIM
+    O_C (0.4%): EPS=SIM PNG=SIM
+    O_H (42.9%): EPS=SIM PNG=SIM
+    O_O (0.2%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2012868.cif_fingerprints_20260625_194349
+=========================================
+    C_C (3.4%): EPS=SIM PNG=SIM
+    C_H (7.4%): EPS=SIM PNG=SIM
+    H_H (56.3%): EPS=SIM PNG=SIM
+    N_H (4.6%): EPS=SIM PNG=SIM
+    O_C (0.6%): EPS=SIM PNG=SIM
+    O_H (19.4%): EPS=SIM PNG=SIM
+    S_C (0.9%): EPS=SIM PNG=SIM
+    S_H (6.9%): EPS=SIM PNG=SIM
+    S_N (0.5%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2013645.cif_fingerprints_20260625_195320
+=========================================
+    B_H (0.1%): EPS=SIM PNG=SIM
+    C_C (0.2%): EPS=SIM PNG=SIM
+    C_H (18.9%): EPS=SIM PNG=SIM
+    C_N (1.3%): EPS=SIM PNG=SIM
+    H_H (39.8%): EPS=SIM PNG=SIM
+    N_H (32.6%): EPS=SIM PNG=SIM
+    N_N (0.2%): EPS=SIM PNG=SIM
+    O_H (6.9%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2015703.cif_fingerprints_20260625_200242
+=========================================
+    C_C (5.4%): EPS=SIM PNG=SIM
+    C_H (17.0%): EPS=SIM PNG=SIM
+    H_H (29.3%): EPS=SIM PNG=SIM
+    N_C (1.6%): EPS=SIM PNG=SIM
+    N_H (0.4%): EPS=SIM PNG=SIM
+    O_C (4.5%): EPS=SIM PNG=SIM
+    O_H (39.4%): EPS=SIM PNG=SIM
+    O_N (1.1%): EPS=SIM PNG=SIM
+    O_O (1.3%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2015749.cif_fingerprints_20260625_201043
+=========================================
+    C_C (0.3%): EPS=SIM PNG=SIM
+    C_H (3.0%): EPS=SIM PNG=SIM
+    H_H (20.9%): EPS=SIM PNG=SIM
+    O_C (2.4%): EPS=SIM PNG=SIM
+    O_H (66.9%): EPS=SIM PNG=SIM
+    O_O (6.5%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2016158.cif_fingerprints_20260625_201818
+=========================================
+    H_H (67.2%): EPS=SIM PNG=SIM
+    O_H (32.8%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2016162.cif_fingerprints_20260625_202516
+=========================================
+    C_C (1.2%): EPS=SIM PNG=SIM
+    C_O (2.2%): EPS=SIM PNG=SIM
+    C_S (1.6%): EPS=SIM PNG=SIM
+    H_C (7.7%): EPS=SIM PNG=SIM
+    H_H (26.0%): EPS=SIM PNG=SIM
+    H_O (40.8%): EPS=SIM PNG=SIM
+    H_S (9.7%): EPS=SIM PNG=SIM
+    N_C (2.6%): EPS=SIM PNG=SIM
+    N_H (1.7%): EPS=SIM PNG=SIM
+    N_N (0.4%): EPS=SIM PNG=SIM
+    N_O (1.5%): EPS=SIM PNG=SIM
+    N_S (1.4%): EPS=SIM PNG=SIM
+    O_O (0.8%): EPS=SIM PNG=SIM
+    O_S (2.5%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2016490.cif_fingerprints_20260625_203532
+=========================================
+    H_C (2.6%): EPS=SIM PNG=SIM
+    H_H (36.5%): EPS=SIM PNG=SIM
+    H_N (2.3%): EPS=SIM PNG=SIM
+    O_H (57.8%): EPS=SIM PNG=SIM
+    O_N (0.3%): EPS=SIM PNG=SIM
+    O_O (0.4%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2017146.cif_fingerprints_20260625_204306
+=========================================
+    C_C (0.1%): EPS=SIM PNG=SIM
+    H_C (10.8%): EPS=SIM PNG=SIM
+    H_H (61.2%): EPS=SIM PNG=SIM
+    O_H (27.5%): EPS=SIM PNG=SIM
+    O_O (0.5%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2018728.cif_fingerprints_20260625_205031
+=========================================
+    C_H (1.4%): EPS=SIM PNG=SIM
+    C_O (0.1%): EPS=SIM PNG=SIM
+    H_H (62.6%): EPS=SIM PNG=SIM
+    H_O (35.9%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2019596.cif_fingerprints_20260625_205747
+=========================================
+    C_H (0.8%): EPS=SIM PNG=SIM
+    H_H (19.1%): EPS=SIM PNG=SIM
+    O_C (2.4%): EPS=SIM PNG=SIM
+    O_H (42.9%): EPS=SIM PNG=SIM
+    O_O (4.4%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2022027.cif_fingerprints_20260625_210709
+=========================================
+    H_C (1.3%): EPS=SIM PNG=SIM
+    H_H (33.9%): EPS=SIM PNG=SIM
+    O_H (24.9%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2023140.cif_fingerprints_20260625_211604
+=========================================
+    C_C (0.2%): EPS=SIM PNG=SIM
+    C_H (18.9%): EPS=SIM PNG=SIM
+    C_N (0.4%): EPS=SIM PNG=SIM
+    C_O (0.9%): EPS=SIM PNG=SIM
+    H_H (36.9%): EPS=SIM PNG=SIM
+    H_N (2.6%): EPS=SIM PNG=SIM
+    H_O (31.0%): EPS=SIM PNG=SIM
+    H_S (7.9%): EPS=SIM PNG=SIM
+    O_O (1.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2101110.cif_fingerprints_20260625_212535
+=========================================
+    C_H (7.8%): EPS=SIM PNG=SIM
+    C_O (2.0%): EPS=SIM PNG=SIM
+    H_H (44.2%): EPS=SIM PNG=SIM
+    N_H (3.0%): EPS=SIM PNG=SIM
+    N_O (0.6%): EPS=SIM PNG=SIM
+    O_H (40.7%): EPS=SIM PNG=SIM
+    O_O (1.7%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2103078.cif_fingerprints_20260625_213318
+=========================================
+    C_C (2.7%): EPS=SIM PNG=SIM
+    C_H (3.4%): EPS=SIM PNG=SIM
+    H_H (7.6%): EPS=SIM PNG=SIM
+    N_C (2.0%): EPS=SIM PNG=SIM
+    N_H (10.5%): EPS=SIM PNG=SIM
+    N_N (1.3%): EPS=SIM PNG=SIM
+    O_C (9.2%): EPS=SIM PNG=SIM
+    O_H (41.2%): EPS=SIM PNG=SIM
+    O_N (0.9%): EPS=SIM PNG=SIM
+    O_O (2.4%): EPS=SIM PNG=SIM
+    S_H (0.2%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2103126.cif_fingerprints_20260625_214532
+=========================================
+    C_C (0.4%): EPS=SIM PNG=SIM
+    C_H (3.1%): EPS=SIM PNG=SIM
+    H_H (38.8%): EPS=SIM PNG=SIM
+    O_C (0.7%): EPS=SIM PNG=SIM
+    O_H (55.8%): EPS=SIM PNG=SIM
+    O_O (1.2%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2103127.cif_fingerprints_20260625_215306
+=========================================
+    C_C (5.4%): EPS=SIM PNG=SIM
+    C_H (10.9%): EPS=SIM PNG=SIM
+    C_N (1.8%): EPS=SIM PNG=SIM
+    H_H (37.7%): EPS=SIM PNG=SIM
+    N_H (7.9%): EPS=SIM PNG=SIM
+    O_C (5.0%): EPS=SIM PNG=SIM
+    O_H (30.7%): EPS=SIM PNG=SIM
+    O_N (0.4%): EPS=SIM PNG=SIM
+    O_O (0.2%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2103481.cif_fingerprints_20260625_220107
+=========================================
+    C_C (0.2%): EPS=SIM PNG=SIM
+    H_C (2.9%): EPS=SIM PNG=SIM
+    H_H (33.9%): EPS=SIM PNG=SIM
+    H_O (53.8%): EPS=SIM PNG=SIM
+    N_C (1.1%): EPS=SIM PNG=SIM
+    N_H (2.5%): EPS=SIM PNG=SIM
+    N_O (1.3%): EPS=SIM PNG=SIM
+    O_C (2.9%): EPS=SIM PNG=SIM
+    O_O (1.2%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2103872.cif_fingerprints_20260625_220908
+=========================================
+    C_C (2.4%): EPS=SIM PNG=SIM
+    C_H (23.7%): EPS=SIM PNG=SIM
+    H_H (46.0%): EPS=SIM PNG=SIM
+    N_C (4.0%): EPS=SIM PNG=SIM
+    N_H (8.6%): EPS=SIM PNG=SIM
+    N_N (1.6%): EPS=SIM PNG=SIM
+    O_C (3.8%): EPS=SIM PNG=SIM
+    O_H (7.5%): EPS=SIM PNG=SIM
+    O_N (2.5%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2104273.cif_fingerprints_20260625_221709
+=========================================
+    C_H (1.3%): EPS=SIM PNG=SIM
+    H_H (33.6%): EPS=SIM PNG=SIM
+    O_H (25.0%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2200233.cif_fingerprints_20260625_222604
+=========================================
+    C_C (2.1%): EPS=SIM PNG=SIM
+    C_H (6.8%): EPS=SIM PNG=SIM
+    H_H (14.4%): EPS=SIM PNG=SIM
+    N_C (2.0%): EPS=SIM PNG=SIM
+    N_H (0.6%): EPS=SIM PNG=SIM
+    O_C (8.1%): EPS=SIM PNG=SIM
+    O_H (40.5%): EPS=SIM PNG=SIM
+    O_N (5.1%): EPS=SIM PNG=SIM
+    O_O (2.2%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2201781.cif_fingerprints_20260625_223602
+=========================================
+    C_C (0.1%): EPS=SIM PNG=SIM
+    C_H (18.6%): EPS=SIM PNG=SIM
+    C_O (0.6%): EPS=SIM PNG=SIM
+    H_H (52.1%): EPS=SIM PNG=SIM
+    H_N (0.3%): EPS=SIM PNG=SIM
+    H_O (28.3%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2202367.cif_fingerprints_20260625_224336
+=========================================
+    C_H (13.0%): EPS=SIM PNG=SIM
+    H_H (50.6%): EPS=SIM PNG=SIM
+    N_H (4.2%): EPS=SIM PNG=SIM
+    O_C (1.1%): EPS=SIM PNG=SIM
+    O_H (7.1%): EPS=SIM PNG=SIM
+    O_O (1.0%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2202871.cif_fingerprints_20260625_225505
+=========================================
+    C_C (0.5%): EPS=SIM PNG=SIM
+    C_H (23.8%): EPS=SIM PNG=SIM
+    H_H (48.4%): EPS=SIM PNG=SIM
+    H_N (0.4%): EPS=SIM PNG=SIM
+    O_C (0.9%): EPS=SIM PNG=SIM
+    O_H (11.9%): EPS=SIM PNG=SIM
+    S_C (2.7%): EPS=SIM PNG=SIM
+    S_H (11.4%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2202930.cif_fingerprints_20260625_230433
+=========================================
+    C_C (3.5%): EPS=SIM PNG=SIM
+    C_H (9.8%): EPS=SIM PNG=SIM
+    C_N (3.3%): EPS=SIM PNG=SIM
+    C_O (1.4%): EPS=SIM PNG=SIM
+    H_H (38.6%): EPS=SIM PNG=SIM
+    H_N (3.2%): EPS=SIM PNG=SIM
+    O_H (37.3%): EPS=SIM PNG=SIM
+    O_N (2.1%): EPS=SIM PNG=SIM
+    O_O (0.8%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2203342.cif_fingerprints_20260625_231238
+=========================================
+    C_H (9.4%): EPS=SIM PNG=SIM
+    C_O (0.1%): EPS=SIM PNG=SIM
+    H_H (68.1%): EPS=SIM PNG=SIM
+    H_N (1.4%): EPS=SIM PNG=SIM
+    H_O (21.0%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2203471.cif_fingerprints_20260625_232007
+=========================================
+    C_C (0.5%): EPS=SIM PNG=SIM
+    H_C (3.0%): EPS=SIM PNG=SIM
+    H_H (37.9%): EPS=SIM PNG=SIM
+    H_N (9.8%): EPS=SIM PNG=SIM
+    N_C (0.1%): EPS=SIM PNG=SIM
+    O_C (1.7%): EPS=SIM PNG=SIM
+    O_H (26.0%): EPS=SIM PNG=SIM
+    O_N (1.1%): EPS=SIM PNG=SIM
+    S_C (0.4%): EPS=SIM PNG=SIM
+    S_H (18.4%): EPS=SIM PNG=SIM
+    S_N (1.3%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2204154.cif_fingerprints_20260625_233004
+=========================================
+    C_C (0.9%): EPS=SIM PNG=SIM
+    C_H (4.4%): EPS=SIM PNG=SIM
+    C_N (0.3%): EPS=SIM PNG=SIM
+    C_O (1.1%): EPS=SIM PNG=SIM
+    H_H (28.0%): EPS=SIM PNG=SIM
+    H_N (3.1%): EPS=SIM PNG=SIM
+    H_O (60.6%): EPS=SIM PNG=SIM
+    N_O (1.6%): EPS=SIM PNG=SIM
+    O_O (0.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2206671.cif_fingerprints_20260625_233809
+=========================================
+    C_H (23.5%): EPS=SIM PNG=SIM
+    H_H (66.9%): EPS=SIM PNG=SIM
+    N_H (1.1%): EPS=SIM PNG=SIM
+    O_H (8.5%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2207148.cif_fingerprints_20260625_234529
+=========================================
+    C_C (0.4%): EPS=SIM PNG=SIM
+    C_F (1.3%): EPS=SIM PNG=SIM
+    C_H (29.0%): EPS=SIM PNG=SIM
+    C_O (1.0%): EPS=SIM PNG=SIM
+    H_F (17.9%): EPS=SIM PNG=SIM
+    H_H (37.6%): EPS=SIM PNG=SIM
+    H_N (1.3%): EPS=SIM PNG=SIM
+    H_O (10.9%): EPS=SIM PNG=SIM
+    O_F (0.5%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2209584.cif_fingerprints_20260625_235506
+=========================================
+    C_C (0.5%): EPS=SIM PNG=SIM
+    C_H (6.7%): EPS=SIM PNG=SIM
+    H_H (29.3%): EPS=SIM PNG=SIM
+    N_H (0.7%): EPS=SIM PNG=SIM
+    O_C (7.2%): EPS=SIM PNG=SIM
+    O_H (54.0%): EPS=SIM PNG=SIM
+    O_N (0.7%): EPS=SIM PNG=SIM
+    O_O (0.9%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2210006.cif_fingerprints_20260626_000434
+=========================================
+    C_C (2.1%): EPS=SIM PNG=SIM
+    H_C (16.8%): EPS=SIM PNG=SIM
+    H_H (48.9%): EPS=SIM PNG=SIM
+    H_N (0.8%): EPS=SIM PNG=SIM
+    O_C (2.5%): EPS=SIM PNG=SIM
+    O_H (28.1%): EPS=SIM PNG=SIM
+    O_N (0.4%): EPS=SIM PNG=SIM
+    O_O (0.3%): EPS=SIM PNG=SIM
+    S_C (0.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2210395.cif_fingerprints_20260626_001412
+=========================================
+    C_C (8.5%): EPS=SIM PNG=SIM
+    H_C (16.1%): EPS=SIM PNG=SIM
+    H_H (43.4%): EPS=SIM PNG=SIM
+    H_N (0.6%): EPS=SIM PNG=SIM
+    I_H (10.0%): EPS=SIM PNG=SIM
+    N_C (0.8%): EPS=SIM PNG=SIM
+    O_C (2.7%): EPS=SIM PNG=SIM
+    O_H (13.0%): EPS=SIM PNG=SIM
+    O_N (0.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2211216.cif_fingerprints_20260626_002548
+=========================================
+    H_H (88.3%): EPS=SIM PNG=SIM
+    H_O (9.6%): EPS=SIM PNG=SIM
+    N_H (2.0%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2213218.cif_fingerprints_20260626_003258
+=========================================
+    C_C (8.5%): EPS=SIM PNG=SIM
+    C_N (0.9%): EPS=SIM PNG=SIM
+    H_C (15.7%): EPS=SIM PNG=SIM
+    H_H (43.9%): EPS=SIM PNG=SIM
+    H_I (13.7%): EPS=SIM PNG=SIM
+    H_N (0.6%): EPS=SIM PNG=SIM
+    O_C (2.7%): EPS=SIM PNG=SIM
+    O_H (13.9%): EPS=SIM PNG=SIM
+    O_N (0.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2213757.cif_fingerprints_20260626_004235
+=========================================
+    C_C (0.4%): EPS=SIM PNG=SIM
+    C_H (6.1%): EPS=SIM PNG=SIM
+    C_N (0.8%): EPS=SIM PNG=SIM
+    C_O (3.6%): EPS=SIM PNG=SIM
+    H_H (37.8%): EPS=SIM PNG=SIM
+    H_O (47.3%): EPS=SIM PNG=SIM
+    N_H (2.1%): EPS=SIM PNG=SIM
+    N_O (1.0%): EPS=SIM PNG=SIM
+    O_O (0.9%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2214204.cif_fingerprints_20260626_005041
+=========================================
+    H_C (2.3%): EPS=SIM PNG=SIM
+    H_H (40.7%): EPS=SIM PNG=SIM
+    N_H (2.6%): EPS=SIM PNG=SIM
+    O_C (0.8%): EPS=SIM PNG=SIM
+    O_H (27.5%): EPS=SIM PNG=SIM
+    O_N (1.1%): EPS=SIM PNG=SIM
+    O_O (0.2%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2214303.cif_fingerprints_20260626_010207
+=========================================
+    C_H (19.6%): EPS=SIM PNG=SIM
+    H_H (41.9%): EPS=SIM PNG=SIM
+    N_C (1.0%): EPS=SIM PNG=SIM
+    N_H (18.3%): EPS=SIM PNG=SIM
+    O_H (18.7%): EPS=SIM PNG=SIM
+    O_N (0.4%): EPS=SIM PNG=SIM
+    P_H (0.2%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2215524.cif_fingerprints_20260626_012105
+=========================================
+    C_C (2.2%): EPS=SIM PNG=SIM
+    H_C (7.0%): EPS=SIM PNG=SIM
+    H_H (11.5%): EPS=SIM PNG=SIM
+    N_C (1.6%): EPS=SIM PNG=SIM
+    N_H (1.8%): EPS=SIM PNG=SIM
+    N_N (0.5%): EPS=SIM PNG=SIM
+    O_C (10.9%): EPS=SIM PNG=SIM
+    O_H (37.3%): EPS=SIM PNG=SIM
+    O_N (3.9%): EPS=SIM PNG=SIM
+    O_O (6.5%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2215635.cif_fingerprints_20260626_013122
+=========================================
+    C_C (6.7%): EPS=SIM PNG=SIM
+    H_C (11.3%): EPS=SIM PNG=SIM
+    H_H (31.7%): EPS=SIM PNG=SIM
+    H_N (2.2%): EPS=SIM PNG=SIM
+    N_C (1.9%): EPS=SIM PNG=SIM
+    O_C (5.6%): EPS=SIM PNG=SIM
+    O_H (38.5%): EPS=SIM PNG=SIM
+    O_N (1.4%): EPS=SIM PNG=SIM
+    O_O (0.7%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2217301.cif_fingerprints_20260626_013923
+=========================================
+    C_C (3.6%): EPS=SIM PNG=SIM
+    H_C (5.9%): EPS=SIM PNG=SIM
+    H_H (22.5%): EPS=SIM PNG=SIM
+    H_N (5.5%): EPS=SIM PNG=SIM
+    N_C (1.0%): EPS=SIM PNG=SIM
+    O_C (6.6%): EPS=SIM PNG=SIM
+    O_H (52.4%): EPS=SIM PNG=SIM
+    O_N (0.8%): EPS=SIM PNG=SIM
+    O_O (1.7%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2219924.cif_fingerprints_20260626_014725
+=========================================
+    C_C (8.2%): EPS=SIM PNG=SIM
+    H_C (18.4%): EPS=SIM PNG=SIM
+    H_H (32.8%): EPS=SIM PNG=SIM
+    H_N (1.5%): EPS=SIM PNG=SIM
+    N_C (2.6%): EPS=SIM PNG=SIM
+    O_C (5.0%): EPS=SIM PNG=SIM
+    O_H (29.6%): EPS=SIM PNG=SIM
+    O_N (0.6%): EPS=SIM PNG=SIM
+    O_O (1.3%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2221024.cif_fingerprints_20260626_015526
+=========================================
+    C_C (1.9%): EPS=SIM PNG=SIM
+    H_C (19.1%): EPS=SIM PNG=SIM
+    H_H (19.4%): EPS=SIM PNG=SIM
+    N_C (3.8%): EPS=SIM PNG=SIM
+    N_H (5.5%): EPS=SIM PNG=SIM
+    O_C (5.7%): EPS=SIM PNG=SIM
+    O_H (25.3%): EPS=SIM PNG=SIM
+    O_N (0.6%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2221531.cif_fingerprints_20260626_020533
+=========================================
+    C_C (4.1%): EPS=SIM PNG=SIM
+    C_H (8.1%): EPS=SIM PNG=SIM
+    H_H (32.7%): EPS=SIM PNG=SIM
+    N_C (4.0%): EPS=SIM PNG=SIM
+    O_C (4.9%): EPS=SIM PNG=SIM
+    O_H (25.7%): EPS=SIM PNG=SIM
+    O_N (0.2%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2221677.cif_fingerprints_20260626_021523
+=========================================
+    C_C (0.4%): EPS=SIM PNG=SIM
+    H_C (9.8%): EPS=SIM PNG=SIM
+    H_H (19.0%): EPS=SIM PNG=SIM
+    N_C (2.2%): EPS=SIM PNG=SIM
+    N_H (3.7%): EPS=SIM PNG=SIM
+    N_N (0.8%): EPS=SIM PNG=SIM
+    O_C (0.2%): EPS=SIM PNG=SIM
+    O_H (60.1%): EPS=SIM PNG=SIM
+    O_N (1.6%): EPS=SIM PNG=SIM
+    O_O (2.1%): EPS=SIM PNG=SIM
+    O_P (0.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2223476.cif_fingerprints_20260626_022512
+=========================================
+    C_H (2.2%): EPS=SIM PNG=SIM
+    H_H (34.0%): EPS=SIM PNG=SIM
+    O_H (63.3%): EPS=SIM PNG=SIM
+    O_O (0.5%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2223924.cif_fingerprints_20260626_023228
+=========================================
+    C_C (0.2%): EPS=SIM PNG=SIM
+    H_C (10.9%): EPS=SIM PNG=SIM
+    H_H (46.7%): EPS=SIM PNG=SIM
+    N_H (1.3%): EPS=SIM PNG=SIM
+    O_C (1.0%): EPS=SIM PNG=SIM
+    O_H (38.2%): EPS=SIM PNG=SIM
+    O_N (0.1%): EPS=SIM PNG=SIM
+    O_O (1.7%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2224292.cif_fingerprints_20260626_024020
+=========================================
+    C_H (21.1%): EPS=SIM PNG=SIM
+    H_H (62.6%): EPS=SIM PNG=SIM
+    O_C (0.4%): EPS=SIM PNG=SIM
+    O_H (15.9%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2225076.cif_fingerprints_20260626_024736
+=========================================
+    C_C (1.4%): EPS=SIM PNG=SIM
+    H_C (26.9%): EPS=SIM PNG=SIM
+    H_H (41.4%): EPS=SIM PNG=SIM
+    N_C (0.6%): EPS=SIM PNG=SIM
+    N_H (5.8%): EPS=SIM PNG=SIM
+    O_C (2.3%): EPS=SIM PNG=SIM
+    O_H (21.5%): EPS=SIM PNG=SIM
+    O_O (0.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2225471.cif_fingerprints_20260626_025528
+=========================================
+    C_C (5.7%): EPS=SIM PNG=SIM
+    C_H (9.6%): EPS=SIM PNG=SIM
+    H_H (0.9%): EPS=SIM PNG=SIM
+    N_C (2.9%): EPS=SIM PNG=SIM
+    N_H (13.0%): EPS=SIM PNG=SIM
+    N_N (0.1%): EPS=SIM PNG=SIM
+    O_C (3.0%): EPS=SIM PNG=SIM
+    O_H (24.4%): EPS=SIM PNG=SIM
+    O_N (4.6%): EPS=SIM PNG=SIM
+    O_O (3.0%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2225832.cif_fingerprints_20260626_030554
+=========================================
+    C_C (9.0%): EPS=SIM PNG=SIM
+    H_C (7.6%): EPS=SIM PNG=SIM
+    H_H (42.0%): EPS=SIM PNG=SIM
+    H_N (4.4%): EPS=SIM PNG=SIM
+    N_C (2.6%): EPS=SIM PNG=SIM
+    O_C (0.6%): EPS=SIM PNG=SIM
+    O_H (33.7%): EPS=SIM PNG=SIM
+    O_O (0.2%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2226600.cif_fingerprints_20260626_031346
+=========================================
+    C_C (9.6%): EPS=SIM PNG=SIM
+    H_C (7.4%): EPS=SIM PNG=SIM
+    H_H (31.7%): EPS=SIM PNG=SIM
+    H_N (1.0%): EPS=SIM PNG=SIM
+    N_C (2.0%): EPS=SIM PNG=SIM
+    N_N (0.1%): EPS=SIM PNG=SIM
+    O_C (3.0%): EPS=SIM PNG=SIM
+    O_H (43.8%): EPS=SIM PNG=SIM
+    O_N (0.2%): EPS=SIM PNG=SIM
+    O_O (1.2%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2227150.cif_fingerprints_20260626_032156
+=========================================
+    C_C (2.2%): EPS=SIM PNG=SIM
+    H_C (15.2%): EPS=SIM PNG=SIM
+    H_H (35.3%): EPS=SIM PNG=SIM
+    H_N (6.9%): EPS=SIM PNG=SIM
+    N_C (1.5%): EPS=SIM PNG=SIM
+    O_C (5.3%): EPS=SIM PNG=SIM
+    O_H (33.3%): EPS=SIM PNG=SIM
+    O_O (0.3%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2228425.cif_fingerprints_20260626_032949
+=========================================
+    C_C (0.4%): EPS=SIM PNG=SIM
+    C_H (22.3%): EPS=SIM PNG=SIM
+    F_C (0.3%): EPS=SIM PNG=SIM
+    F_H (8.6%): EPS=SIM PNG=SIM
+    F_O (1.2%): EPS=SIM PNG=SIM
+    H_H (34.2%): EPS=SIM PNG=SIM
+    N_C (0.5%): EPS=SIM PNG=SIM
+    N_H (2.7%): EPS=SIM PNG=SIM
+    O_C (0.2%): EPS=SIM PNG=SIM
+    O_H (15.8%): EPS=SIM PNG=SIM
+    O_N (0.4%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2228646.cif_fingerprints_20260626_034153
+=========================================
+    H_C (16.3%): EPS=SIM PNG=SIM
+    H_H (57.4%): EPS=SIM PNG=SIM
+    H_N (1.0%): EPS=SIM PNG=SIM
+    N_C (0.1%): EPS=SIM PNG=SIM
+    O_H (25.2%): EPS=SIM PNG=SIM
+    O_O (0.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2229364.cif_fingerprints_20260626_034927
+=========================================
+    H_C (0.1%): EPS=SIM PNG=SIM
+    H_H (52.0%): EPS=SIM PNG=SIM
+    O_H (21.3%): EPS=SIM PNG=SIM
+    O_O (0.2%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2230318.cif_fingerprints_20260626_035831
+=========================================
+    C_C (0.3%): EPS=SIM PNG=SIM
+    C_H (13.5%): EPS=SIM PNG=SIM
+    C_O (0.7%): EPS=SIM PNG=SIM
+    H_H (49.7%): EPS=SIM PNG=SIM
+    H_O (24.8%): EPS=SIM PNG=SIM
+    H_S (10.6%): EPS=SIM PNG=SIM
+    O_O (0.4%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2230680.cif_fingerprints_20260626_040744
+=========================================
+    C_C (0.7%): EPS=SIM PNG=SIM
+    H_C (13.1%): EPS=SIM PNG=SIM
+    H_H (54.9%): EPS=SIM PNG=SIM
+    H_N (6.1%): EPS=SIM PNG=SIM
+    N_C (0.4%): EPS=SIM PNG=SIM
+    O_C (0.9%): EPS=SIM PNG=SIM
+    O_H (23.4%): EPS=SIM PNG=SIM
+    O_N (0.4%): EPS=SIM PNG=SIM
+    O_O (0.2%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2230683.cif_fingerprints_20260626_041545
+=========================================
+    C_C (2.0%): EPS=SIM PNG=SIM
+    H_C (18.2%): EPS=SIM PNG=SIM
+    H_H (42.1%): EPS=SIM PNG=SIM
+    H_N (4.7%): EPS=SIM PNG=SIM
+    N_C (0.4%): EPS=SIM PNG=SIM
+    O_C (0.9%): EPS=SIM PNG=SIM
+    O_H (19.4%): EPS=SIM PNG=SIM
+    O_O (0.6%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2231121.cif_fingerprints_20260626_042543
+=========================================
+    C_C (0.6%): EPS=SIM PNG=SIM
+    H_C (12.4%): EPS=SIM PNG=SIM
+    H_H (52.8%): EPS=SIM PNG=SIM
+    H_N (3.8%): EPS=SIM PNG=SIM
+    N_C (0.2%): EPS=SIM PNG=SIM
+    O_C (1.8%): EPS=SIM PNG=SIM
+    O_H (27.0%): EPS=SIM PNG=SIM
+    O_N (1.4%): EPS=SIM PNG=SIM
+    O_O (0.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2231842.cif_fingerprints_20260626_043344
+=========================================
+    C_C (0.6%): EPS=SIM PNG=SIM
+    H_C (16.3%): EPS=SIM PNG=SIM
+    H_H (73.7%): EPS=SIM PNG=SIM
+    N_H (1.5%): EPS=SIM PNG=SIM
+    O_H (7.8%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2232092.cif_fingerprints_20260626_044109
+=========================================
+    C_H (2.4%): EPS=SIM PNG=SIM
+    C_O (3.0%): EPS=SIM PNG=SIM
+    H_H (30.7%): EPS=SIM PNG=SIM
+    H_N (0.1%): EPS=SIM PNG=SIM
+    H_O (57.8%): EPS=SIM PNG=SIM
+    O_O (3.3%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2236315.cif_fingerprints_20260626_045040
+=========================================
+    C_H (18.7%): EPS=SIM PNG=SIM
+    H_H (65.3%): EPS=SIM PNG=SIM
+    N_H (0.5%): EPS=SIM PNG=SIM
+    O_C (0.4%): EPS=SIM PNG=SIM
+    O_H (15.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2236837.cif_fingerprints_20260626_050026
+=========================================
+    C_C (0.6%): EPS=SIM PNG=SIM
+    C_H (31.6%): EPS=SIM PNG=SIM
+    C_N (0.4%): EPS=SIM PNG=SIM
+    H_H (60.2%): EPS=SIM PNG=SIM
+    H_N (0.2%): EPS=SIM PNG=SIM
+    H_O (6.9%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2239065.cif_fingerprints_20260626_050801
+=========================================
+    C_C (0.6%): EPS=SIM PNG=SIM
+    F_H (10.8%): EPS=SIM PNG=SIM
+    F_O (0.1%): EPS=SIM PNG=SIM
+    H_C (10.5%): EPS=SIM PNG=SIM
+    H_H (29.7%): EPS=SIM PNG=SIM
+    H_O (12.0%): EPS=SIM PNG=SIM
+    I_C (4.1%): EPS=SIM PNG=SIM
+    I_F (0.3%): EPS=SIM PNG=SIM
+    I_H (10.5%): EPS=SIM PNG=SIM
+    I_N (2.7%): EPS=SIM PNG=SIM
+    I_O (1.9%): EPS=SIM PNG=SIM
+    N_C (2.0%): EPS=SIM PNG=SIM
+    N_H (9.4%): EPS=SIM PNG=SIM
+    N_N (0.1%): EPS=SIM PNG=SIM
+    N_O (4.4%): EPS=SIM PNG=SIM
+    O_C (1.0%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2239167.cif_fingerprints_20260626_052023
+=========================================
+    C_C (4.3%): EPS=SIM PNG=SIM
+    H_C (13.5%): EPS=SIM PNG=SIM
+    H_H (37.4%): EPS=SIM PNG=SIM
+    N_C (1.0%): EPS=SIM PNG=SIM
+    N_H (13.0%): EPS=SIM PNG=SIM
+    O_C (1.4%): EPS=SIM PNG=SIM
+    O_H (7.4%): EPS=SIM PNG=SIM
+    O_N (1.2%): EPS=SIM PNG=SIM
+    S_C (2.6%): EPS=SIM PNG=SIM
+    S_H (16.7%): EPS=SIM PNG=SIM
+    S_N (0.9%): EPS=SIM PNG=SIM
+    S_O (0.4%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 2242589.cif_fingerprints_20260626_053021
+=========================================
+    H_C (4.2%): EPS=SIM PNG=SIM
+    H_H (55.5%): EPS=SIM PNG=SIM
+    H_N (6.5%): EPS=SIM PNG=SIM
+    O_H (22.4%): EPS=SIM PNG=SIM
+    S_C (0.2%): EPS=SIM PNG=SIM
+    S_H (9.4%): EPS=SIM PNG=SIM
+    S_O (1.7%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4003563.cif_fingerprints_20260626_053934
+=========================================
+    C_C (17.9%): EPS=SIM PNG=SIM
+    C_H (2.1%): EPS=SIM PNG=SIM
+    N_C (25.3%): EPS=SIM PNG=SIM
+    N_H (16.7%): EPS=SIM PNG=SIM
+    N_N (5.3%): EPS=SIM PNG=SIM
+    N_O (16.1%): EPS=SIM PNG=SIM
+    O_C (3.9%): EPS=SIM PNG=SIM
+    O_H (3.4%): EPS=SIM PNG=SIM
+    O_O (9.4%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4020254.cif_fingerprints_20260626_054736
+=========================================
+    C_C (0.5%): EPS=SIM PNG=SIM
+    C_H (9.3%): EPS=SIM PNG=SIM
+    H_H (70.5%): EPS=SIM PNG=SIM
+    H_O (7.3%): EPS=SIM PNG=SIM
+    S_H (12.2%): EPS=SIM PNG=SIM
+    S_O (0.2%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4020833.cif_fingerprints_20260626_055828
+=========================================
+    H_C (18.5%): EPS=SIM PNG=SIM
+    H_H (51.6%): EPS=SIM PNG=SIM
+    H_O (22.3%): EPS=SIM PNG=SIM
+    N_H (0.4%): EPS=SIM PNG=SIM
+    O_C (0.9%): EPS=SIM PNG=SIM
+    O_O (1.0%): EPS=SIM PNG=SIM
+    S_C (0.6%): EPS=SIM PNG=SIM
+    S_H (4.2%): EPS=SIM PNG=SIM
+    S_O (0.4%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4021836.cif_fingerprints_20260626_060904
+=========================================
+    C_H (13.1%): EPS=SIM PNG=SIM
+    H_H (68.4%): EPS=SIM PNG=SIM
+    H_N (2.2%): EPS=SIM PNG=SIM
+    O_H (16.4%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4023896.cif_fingerprints_20260626_061620
+=========================================
+    C_C (3.1%): EPS=SIM PNG=SIM
+    F_C (1.6%): EPS=SIM PNG=SIM
+    F_F (2.1%): EPS=SIM PNG=SIM
+    F_H (19.7%): EPS=SIM PNG=SIM
+    F_N (0.7%): EPS=SIM PNG=SIM
+    F_O (0.5%): EPS=SIM PNG=SIM
+    H_C (18.3%): EPS=SIM PNG=SIM
+    H_H (34.6%): EPS=SIM PNG=SIM
+    H_N (2.8%): EPS=SIM PNG=SIM
+    N_C (1.5%): EPS=SIM PNG=SIM
+    O_C (0.3%): EPS=SIM PNG=SIM
+    O_H (14.2%): EPS=SIM PNG=SIM
+    O_O (0.6%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4026056.cif_fingerprints_20260626_062628
+=========================================
+    C_H (9.7%): EPS=SIM PNG=SIM
+    H_H (76.2%): EPS=SIM PNG=SIM
+    H_O (13.7%): EPS=SIM PNG=SIM
+    O_O (0.4%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4026381.cif_fingerprints_20260626_063344
+=========================================
+    H_C (7.7%): EPS=SIM PNG=SIM
+    H_H (64.5%): EPS=SIM PNG=SIM
+    N_H (0.5%): EPS=SIM PNG=SIM
+    O_C (0.7%): EPS=SIM PNG=SIM
+    O_H (26.6%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4027001.cif_fingerprints_20260626_064239
+=========================================
+    C_H (7.5%): EPS=SIM PNG=SIM
+    H_H (67.7%): EPS=SIM PNG=SIM
+    H_N (8.1%): EPS=SIM PNG=SIM
+    O_H (16.6%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4027404.cif_fingerprints_20260626_064955
+=========================================
+    C_H (9.8%): EPS=SIM PNG=SIM
+    H_H (71.6%): EPS=SIM PNG=SIM
+    N_H (0.9%): EPS=SIM PNG=SIM
+    O_H (8.4%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4028109.cif_fingerprints_20260626_065850
+=========================================
+    C_H (24.3%): EPS=SIM PNG=SIM
+    C_O (1.8%): EPS=SIM PNG=SIM
+    H_H (53.4%): EPS=SIM PNG=SIM
+    H_N (0.1%): EPS=SIM PNG=SIM
+    H_O (20.2%): EPS=SIM PNG=SIM
+    H_S (0.1%): EPS=SIM PNG=SIM
+    O_O (0.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4028530.cif_fingerprints_20260626_070803
+=========================================
+    C_H (4.3%): EPS=SIM PNG=SIM
+    C_N (0.2%): EPS=SIM PNG=SIM
+    C_O (1.2%): EPS=SIM PNG=SIM
+    H_H (47.0%): EPS=SIM PNG=SIM
+    H_N (1.9%): EPS=SIM PNG=SIM
+    H_O (44.3%): EPS=SIM PNG=SIM
+    O_O (1.2%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4028836.cif_fingerprints_20260626_071546
+=========================================
+    H_C (8.3%): EPS=SIM PNG=SIM
+    H_H (71.9%): EPS=SIM PNG=SIM
+    N_H (1.4%): EPS=SIM PNG=SIM
+    O_H (18.3%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4030400.cif_fingerprints_20260626_072302
+=========================================
+    C_H (8.8%): EPS=SIM PNG=SIM
+    H_H (62.1%): EPS=SIM PNG=SIM
+    H_N (5.4%): EPS=SIM PNG=SIM
+    H_O (21.2%): EPS=SIM PNG=SIM
+    N_O (0.3%): EPS=SIM PNG=SIM
+    O_O (2.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4031127.cif_fingerprints_20260626_110639
+=========================================
+    C_C (1.9%): EPS=SIM PNG=SIM
+    C_H (27.7%): EPS=SIM PNG=SIM
+    C_O (0.1%): EPS=SIM PNG=SIM
+    H_H (51.5%): EPS=SIM PNG=SIM
+    H_O (6.0%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4032214.cif_fingerprints_20260626_112729
+=========================================
+    C_C (0.2%): EPS=SIM PNG=SIM
+    C_H (15.4%): EPS=SIM PNG=SIM
+    H_H (32.2%): EPS=SIM PNG=SIM
+    H_N (12.0%): EPS=SIM PNG=SIM
+    N_N (0.1%): EPS=SIM PNG=SIM
+    O_C (0.6%): EPS=SIM PNG=SIM
+    O_H (29.4%): EPS=SIM PNG=SIM
+    O_N (8.5%): EPS=SIM PNG=SIM
+    O_O (1.8%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4033242.cif_fingerprints_20260626_113705
+=========================================
+    C_H (9.0%): EPS=SIM PNG=SIM
+    F_H (5.3%): EPS=SIM PNG=SIM
+    F_O (0.1%): EPS=SIM PNG=SIM
+    H_H (35.4%): EPS=SIM PNG=SIM
+    N_C (0.2%): EPS=SIM PNG=SIM
+    N_H (1.1%): EPS=SIM PNG=SIM
+    O_C (2.3%): EPS=SIM PNG=SIM
+    O_H (33.6%): EPS=SIM PNG=SIM
+    O_N (0.7%): EPS=SIM PNG=SIM
+    O_O (2.2%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4033485.cif_fingerprints_20260626_115113
+=========================================
+    H_C (15.9%): EPS=SIM PNG=SIM
+    H_H (51.5%): EPS=SIM PNG=SIM
+    N_H (2.8%): EPS=SIM PNG=SIM
+    O_C (1.1%): EPS=SIM PNG=SIM
+    O_H (12.9%): EPS=SIM PNG=SIM
+    O_N (1.1%): EPS=SIM PNG=SIM
+    O_O (0.6%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4034749.cif_fingerprints_20260626_120049
+=========================================
+    C_C (0.7%): EPS=SIM PNG=SIM
+    C_H (33.4%): EPS=SIM PNG=SIM
+    H_H (49.8%): EPS=SIM PNG=SIM
+    N_H (1.9%): EPS=SIM PNG=SIM
+    O_C (1.5%): EPS=SIM PNG=SIM
+    O_H (12.6%): EPS=SIM PNG=SIM
+    S_H (0.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4037550.cif_fingerprints_20260626_121230
+=========================================
+    C_H (14.5%): EPS=SIM PNG=SIM
+    H_H (69.3%): EPS=SIM PNG=SIM
+    O_C (0.1%): EPS=SIM PNG=SIM
+    O_H (16.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4038058.cif_fingerprints_20260626_121949
+=========================================
+    C_H (19.9%): EPS=SIM PNG=SIM
+    H_H (72.7%): EPS=SIM PNG=SIM
+    H_N (2.9%): EPS=SIM PNG=SIM
+    H_O (3.8%): EPS=SIM PNG=SIM
+    H_P (0.7%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4101867.cif_fingerprints_20260626_123038
+=========================================
+    C_C (4.3%): EPS=SIM PNG=SIM
+    C_H (27.2%): EPS=SIM PNG=SIM
+    H_H (56.2%): EPS=SIM PNG=SIM
+    N_C (0.2%): EPS=SIM PNG=SIM
+    N_H (7.0%): EPS=SIM PNG=SIM
+    O_C (0.1%): EPS=SIM PNG=SIM
+    O_H (5.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4106190.cif_fingerprints_20260626_123825
+=========================================
+    C_C (0.3%): EPS=SIM PNG=SIM
+    C_H (19.9%): EPS=SIM PNG=SIM
+    H_H (30.0%): EPS=SIM PNG=SIM
+    N_H (1.3%): EPS=SIM PNG=SIM
+    O_C (3.7%): EPS=SIM PNG=SIM
+    O_H (22.6%): EPS=SIM PNG=SIM
+    O_N (0.7%): EPS=SIM PNG=SIM
+    O_O (1.0%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4107635.cif_fingerprints_20260626_124827
+=========================================
+    C_C (0.2%): EPS=SIM PNG=SIM
+    C_H (5.8%): EPS=SIM PNG=SIM
+    C_O (1.4%): EPS=SIM PNG=SIM
+    F_C (0.9%): EPS=SIM PNG=SIM
+    F_H (12.4%): EPS=SIM PNG=SIM
+    F_O (3.6%): EPS=SIM PNG=SIM
+    H_H (30.0%): EPS=SIM PNG=SIM
+    N_H (1.1%): EPS=SIM PNG=SIM
+    O_H (42.2%): EPS=SIM PNG=SIM
+    O_N (0.1%): EPS=SIM PNG=SIM
+    O_O (2.2%): EPS=SIM PNG=SIM
+    S_H (0.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4108794.cif_fingerprints_20260626_134618
+=========================================
+    C_C (6.9%): EPS=SIM PNG=SIM
+    H_C (17.9%): EPS=SIM PNG=SIM
+    H_H (54.8%): EPS=SIM PNG=SIM
+    H_N (1.1%): EPS=SIM PNG=SIM
+    N_C (2.7%): EPS=SIM PNG=SIM
+    N_N (0.4%): EPS=SIM PNG=SIM
+    O_H (4.3%): EPS=SIM PNG=SIM
+    S_C (2.9%): EPS=SIM PNG=SIM
+    S_H (8.8%): EPS=SIM PNG=SIM
+    S_N (0.1%): EPS=SIM PNG=SIM
+    S_O (0.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4109036.cif_fingerprints_20260626_135611
+=========================================
+    C_C (0.9%): EPS=SIM PNG=SIM
+    C_H (17.6%): EPS=SIM PNG=SIM
+    H_H (61.6%): EPS=SIM PNG=SIM
+    N_H (0.3%): EPS=SIM PNG=SIM
+    O_C (0.3%): EPS=SIM PNG=SIM
+    O_H (19.2%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4109513.cif_fingerprints_20260626_140346
+=========================================
+    C_C (0.3%): EPS=SIM PNG=SIM
+    C_H (16.2%): EPS=SIM PNG=SIM
+    C_O (1.0%): EPS=SIM PNG=SIM
+    H_H (65.5%): EPS=SIM PNG=SIM
+    H_N (0.7%): EPS=SIM PNG=SIM
+    H_O (16.3%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4111397.cif_fingerprints_20260626_141120
+=========================================
+    H_H (69.6%): EPS=SIM PNG=SIM
+    H_O (9.3%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4112660.cif_fingerprints_20260626_141957
+=========================================
+    C_H (0.5%): EPS=SIM PNG=SIM
+    H_H (73.2%): EPS=SIM PNG=SIM
+    N_H (0.7%): EPS=SIM PNG=SIM
+    O_H (25.6%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4113380.cif_fingerprints_20260626_142713
+=========================================
+    C_H (6.6%): EPS=SIM PNG=SIM
+    H_H (66.5%): EPS=SIM PNG=SIM
+    N_H (3.9%): EPS=SIM PNG=SIM
+    O_H (15.9%): EPS=SIM PNG=SIM
+    O_N (0.1%): EPS=SIM PNG=SIM
+    S_H (7.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4116628.cif_fingerprints_20260626_143617
+=========================================
+    H_C (18.5%): EPS=SIM PNG=SIM
+    H_H (51.6%): EPS=SIM PNG=SIM
+    H_O (22.3%): EPS=SIM PNG=SIM
+    N_H (0.4%): EPS=SIM PNG=SIM
+    O_C (0.9%): EPS=SIM PNG=SIM
+    O_O (1.0%): EPS=SIM PNG=SIM
+    S_C (0.6%): EPS=SIM PNG=SIM
+    S_H (4.2%): EPS=SIM PNG=SIM
+    S_O (0.4%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4116933.cif_fingerprints_20260626_144549
+=========================================
+    H_C (3.1%): EPS=SIM PNG=SIM
+    H_H (72.3%): EPS=SIM PNG=SIM
+    N_H (1.4%): EPS=SIM PNG=SIM
+    O_H (23.2%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4118205.cif_fingerprints_20260626_145305
+=========================================
+    C_C (1.8%): EPS=SIM PNG=SIM
+    C_H (23.5%): EPS=SIM PNG=SIM
+    C_O (1.5%): EPS=SIM PNG=SIM
+    C_S (0.1%): EPS=SIM PNG=SIM
+    H_H (59.1%): EPS=SIM PNG=SIM
+    H_O (13.8%): EPS=SIM PNG=SIM
+    O_O (0.2%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4118866.cif_fingerprints_20260626_150218
+=========================================
+    C_C (1.2%): EPS=SIM PNG=SIM
+    H_C (16.8%): EPS=SIM PNG=SIM
+    H_H (55.2%): EPS=SIM PNG=SIM
+    N_C (1.0%): EPS=SIM PNG=SIM
+    N_H (3.9%): EPS=SIM PNG=SIM
+    O_C (2.0%): EPS=SIM PNG=SIM
+    O_H (19.0%): EPS=SIM PNG=SIM
+    O_N (0.3%): EPS=SIM PNG=SIM
+    O_O (0.6%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4118905.cif_fingerprints_20260626_151020
+=========================================
+    C_H (19.2%): EPS=SIM PNG=SIM
+    C_O (1.7%): EPS=SIM PNG=SIM
+    H_H (54.0%): EPS=SIM PNG=SIM
+    H_N (0.5%): EPS=SIM PNG=SIM
+    H_O (18.9%): EPS=SIM PNG=SIM
+    H_S (4.8%): EPS=SIM PNG=SIM
+    N_O (0.4%): EPS=SIM PNG=SIM
+    O_O (0.3%): EPS=SIM PNG=SIM
+    O_S (0.2%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4120260.cif_fingerprints_20260626_151952
+=========================================
+    C_C (2.7%): EPS=SIM PNG=SIM
+    C_H (5.3%): EPS=SIM PNG=SIM
+    C_N (2.8%): EPS=SIM PNG=SIM
+    F_C (0.3%): EPS=SIM PNG=SIM
+    F_H (45.8%): EPS=SIM PNG=SIM
+    F_N (0.5%): EPS=SIM PNG=SIM
+    F_O (1.3%): EPS=SIM PNG=SIM
+    H_H (35.1%): EPS=SIM PNG=SIM
+    N_H (3.2%): EPS=SIM PNG=SIM
+    N_N (1.4%): EPS=SIM PNG=SIM
+    O_H (1.6%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4120744.cif_fingerprints_20260626_153134
+=========================================
+    H_C (6.3%): EPS=SIM PNG=SIM
+    H_H (56.7%): EPS=SIM PNG=SIM
+    H_N (3.0%): EPS=SIM PNG=SIM
+    O_C (0.5%): EPS=SIM PNG=SIM
+    O_H (32.9%): EPS=SIM PNG=SIM
+    O_N (0.5%): EPS=SIM PNG=SIM
+    O_O (0.1%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4121631.cif_fingerprints_20260626_153919
+=========================================
+    C_C (0.4%): EPS=SIM PNG=SIM
+    C_H (23.8%): EPS=SIM PNG=SIM
+    H_H (48.9%): EPS=SIM PNG=SIM
+    O_H (12.9%): EPS=SIM PNG=SIM
+
+=========================================
+PASTA: 4121940.cif_fingerprints_20260626_154836
+=========================================
+    C_H (22.4%): EPS=SIM PNG=SIM
+    H_H (49.9%): EPS=SIM PNG=SIM
+    H_N (0.4%): EPS=SIM PNG=SIM
+    H_O (13.6%): EPS=SIM PNG=SIM
